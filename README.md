@@ -1,11 +1,13 @@
-# license-gen
+# license_gen
 
-Generate common open source licenses.""".
-
-Zero dependencies. Python 3.8+.
+License file generator — MIT, Apache, GPL, BSD
 
 ## Usage
 
 ```bash
 python3 license_gen.py --help
 ```
+
+## License
+
+MIT
